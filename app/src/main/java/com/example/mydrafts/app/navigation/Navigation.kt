@@ -14,8 +14,6 @@ import androidx.navigation.compose.rememberNavController
 fun Navigation() {
     val navController = rememberNavController()
 
-
-
     Scaffold(
         bottomBar = {
             BottomNavigationBar(navController = navController, items = items)
