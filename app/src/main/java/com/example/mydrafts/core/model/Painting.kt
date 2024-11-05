@@ -1,4 +1,4 @@
-package com.example.mydrafts
+package com.example.mydrafts.core.model
 
 data class Painting(
     val id: Int,

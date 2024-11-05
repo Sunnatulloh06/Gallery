@@ -1,4 +1,4 @@
-package com.example.mydrafts
+package com.example.mydrafts.presentation.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -18,6 +18,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.mydrafts.core.model.Painting
 
 @Composable
 fun PaintingItem(painting: Painting, onClick: () -> Unit) {
