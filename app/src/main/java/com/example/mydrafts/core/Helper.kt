@@ -1,3 +1,8 @@
+package com.example.mydrafts.core
+
+import com.example.mydrafts.Painting
+import com.example.mydrafts.R
+
 val landscapes = listOf(
     Painting(1, "Sunset in Mountains", "Alexander Barbara", 2015, "Picturesque image of sunset in mountains", R.drawable.landscape1),
     Painting(2, "A River in the Forest", "Martines Karlos", 1999, "A calm river surrounded by forest", R.drawable.landscape2)
