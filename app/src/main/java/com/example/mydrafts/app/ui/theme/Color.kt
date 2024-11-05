@@ -1,4 +1,4 @@
-package com.example.mydrafts.ui.theme
+package com.example.mydrafts.app.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

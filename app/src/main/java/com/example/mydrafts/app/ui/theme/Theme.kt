@@ -1,4 +1,4 @@
-package com.example.mydrafts.ui.theme
+package com.example.mydrafts.app.ui.theme
 
 import android.app.Activity
 import android.os.Build

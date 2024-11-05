@@ -1,6 +1,6 @@
 package com.example.mydrafts.core
 
-import com.example.mydrafts.Painting
+import com.example.mydrafts.core.model.Painting
 import com.example.mydrafts.R
 
 val landscapes = listOf(

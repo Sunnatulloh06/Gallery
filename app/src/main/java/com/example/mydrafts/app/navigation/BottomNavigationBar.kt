@@ -1,4 +1,4 @@
-package com.example.mydrafts
+package com.example.mydrafts.app.navigation
 
 import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
